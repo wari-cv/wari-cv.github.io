@@ -479,8 +479,8 @@ body.offcanvas {
   border: none; }
 
 .panel-heading a:after {
-  font-family: "";
-  content: "";
+  font-family: "icomoon";
+  content: "\e115";
   position: absolute;
   right: 20px;
   font-size: 14px;
@@ -490,7 +490,7 @@ body.offcanvas {
   margin-top: -7px; }
 
 .panel-heading a.collapsed:after {
-  content: ""; }
+  content: "\e114"; }
 
 .panel-heading a.collapsed {
   background: #f2f3f7;
